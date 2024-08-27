@@ -3447,12 +3447,12 @@
 
 <p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/issues
 
