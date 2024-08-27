@@ -32,5 +32,5 @@ keywords:
         filters: ["LLM for 5G Security", "LLM for celluar network security"]
     "Audio Deepfake":
         filters: ["Audio Deepfake Detection"]
-    "Embodied AI Security & Privacy"
+    "Embodied AI Security & Privacy":
         filters: ["Embodied AI Security", "Embodied AI Privacy"]
