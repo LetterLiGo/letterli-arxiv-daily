@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Image Safety
@@ -141,7 +141,7 @@ layout: default
 |**2022-10-12**|**SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection**|Piotr Kawa et.al.|[2210.06105](http://arxiv.org/abs/2210.06105)|**[link](https://github.com/piotrkawa/specrnet)**|
 |**2022-08-02**|**Audio Deepfake Detection Based on a Combination of F0 Information and Real Plus Imaginary Spectrogram Features**|Jun Xue et.al.|[2208.01214](http://arxiv.org/abs/2208.01214)|null|
 |**2022-07-21**|**Attack Agnostic Dataset: Towards Generalization and Stabilization of Audio DeepFake Detection**|Piotr Kawa et.al.|[2206.13979](http://arxiv.org/abs/2206.13979)|**[link](https://github.com/piotrkawa/attack-agnostic-dataset)**|
-|**2022-04-21**|**Does Audio Deepfake Detection Generalize?**|Nicolas M. Müller et.al.|[2203.16263](http://arxiv.org/abs/2203.16263)|null|
+|**2024-08-27**|**Does Audio Deepfake Detection Generalize?**|Nicolas M. Müller et.al.|[2203.16263](http://arxiv.org/abs/2203.16263)|null|
 |**2022-03-03**|**The Vicomtech Audio Deepfake Detection System based on Wav2Vec2 for the 2022 ADD Challenge**|Juan M. Martín-Doñas et.al.|[2203.01573](http://arxiv.org/abs/2203.01573)|null|
 |**2024-07-02**|**ADD 2022: the First Audio Deep Synthesis Detection Challenge**|Jiangyan Yi et.al.|[2202.08433](http://arxiv.org/abs/2202.08433)|null|
 |**2021-11-04**|**WaveFake: A Data Set to Facilitate Audio Deepfake Detection**|Joel Frank et.al.|[2111.02813](http://arxiv.org/abs/2111.02813)|**[link](https://github.com/rub-syssec/wavefake)**|

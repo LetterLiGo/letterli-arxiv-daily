@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2022-11-10**|**Red-Teaming the Stable Diffusion Safety Filter**|Javier Rando et.al.|[2210.04610](http://arxiv.org/abs/2210.04610)|null|
 
-<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
 ## LLM Security & Privacy
 
@@ -64,7 +64,7 @@
 |**2023-09-04**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614](http://arxiv.org/abs/2309.00614)|null|
 |**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|**[link](https://github.com/hkust-knowcomp/llm-multistep-jailbreak)**|
 
-<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
 ## LLM Agent Security & Privacy
 
@@ -108,7 +108,7 @@
 |**2023-07-03**|**From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**|Maanak Gupta et.al.|[2307.00691](http://arxiv.org/abs/2307.00691)|null|
 |**2024-03-02**|**Prompt Injection attack against LLM-integrated Applications**|Yi Liu et.al.|[2306.05499](http://arxiv.org/abs/2306.05499)|null|
 
-<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
 ## Audio Deepfake
 
@@ -153,13 +153,13 @@
 |**2022-10-12**|**SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection**|Piotr Kawa et.al.|[2210.06105](http://arxiv.org/abs/2210.06105)|**[link](https://github.com/piotrkawa/specrnet)**|
 |**2022-08-02**|**Audio Deepfake Detection Based on a Combination of F0 Information and Real Plus Imaginary Spectrogram Features**|Jun Xue et.al.|[2208.01214](http://arxiv.org/abs/2208.01214)|null|
 |**2022-07-21**|**Attack Agnostic Dataset: Towards Generalization and Stabilization of Audio DeepFake Detection**|Piotr Kawa et.al.|[2206.13979](http://arxiv.org/abs/2206.13979)|**[link](https://github.com/piotrkawa/attack-agnostic-dataset)**|
-|**2022-04-21**|**Does Audio Deepfake Detection Generalize?**|Nicolas M. Müller et.al.|[2203.16263](http://arxiv.org/abs/2203.16263)|null|
+|**2024-08-27**|**Does Audio Deepfake Detection Generalize?**|Nicolas M. Müller et.al.|[2203.16263](http://arxiv.org/abs/2203.16263)|null|
 |**2022-03-03**|**The Vicomtech Audio Deepfake Detection System based on Wav2Vec2 for the 2022 ADD Challenge**|Juan M. Martín-Doñas et.al.|[2203.01573](http://arxiv.org/abs/2203.01573)|null|
 |**2024-07-02**|**ADD 2022: the First Audio Deep Synthesis Detection Challenge**|Jiangyan Yi et.al.|[2202.08433](http://arxiv.org/abs/2202.08433)|null|
 |**2021-11-04**|**WaveFake: A Data Set to Facilitate Audio Deepfake Detection**|Joel Frank et.al.|[2111.02813](http://arxiv.org/abs/2111.02813)|**[link](https://github.com/rub-syssec/wavefake)**|
 |**2021-06-26**|**Generalized Spoofing Detection Inspired from Audio Generation Artifacts**|Yang Gao et.al.|[2104.04111](http://arxiv.org/abs/2104.04111)|null|
 
-<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/graphs/contributors
