@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Image Safety
@@ -70,7 +70,7 @@ layout: default
 |**2024-06-20**|**Prompt Injection Attacks in Defended Systems**|Daniil Khomsky et.al.|[2406.14048](http://arxiv.org/abs/2406.14048)|null|
 |**2024-07-18**|**AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents**|Edoardo Debenedetti et.al.|[2406.13352](http://arxiv.org/abs/2406.13352)|**[link](https://github.com/ethz-spylab/agentdojo)**|
 |**2024-06-11**|**Knowledge Return Oriented Prompting (KROP)**|Jason Martin et.al.|[2406.11880](http://arxiv.org/abs/2406.11880)|null|
-|**2024-06-08**|**SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner**|Xunguang Wang et.al.|[2406.05498](http://arxiv.org/abs/2406.05498)|null|
+|**2024-09-05**|**SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner**|Xunguang Wang et.al.|[2406.05498](http://arxiv.org/abs/2406.05498)|null|
 |**2024-06-13**|**Ranking Manipulation for Conversational Search Engines**|Samuel Pfrommer et.al.|[2406.03589](http://arxiv.org/abs/2406.03589)|**[link](https://github.com/spfrommer/ranking_manipulation_data_pipeline)**|
 |**2024-07-19**|**Are you still on track!? Catching LLM Task Drift with Activations**|Sahar Abdelnabi et.al.|[2406.00799](http://arxiv.org/abs/2406.00799)|**[link](https://github.com/microsoft/TaskTracker)**|
 |**2024-06-06**|**Exfiltration of personal information from ChatGPT via prompt injection**|Gregory Schwartzman et.al.|[2406.00199](http://arxiv.org/abs/2406.00199)|null|
