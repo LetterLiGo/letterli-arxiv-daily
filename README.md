@@ -98,7 +98,7 @@
 |**2024-02-09**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|null|
 |**2024-02-08**|**In-Context Learning Can Re-learn Forbidden Tasks**|Sophie Xhonneux et.al.|[2402.05723](http://arxiv.org/abs/2402.05723)|null|
 |**2024-01-31**|**An Early Categorization of Prompt Injection Attacks on Large Language Models**|Sippo Rossi et.al.|[2402.00898](http://arxiv.org/abs/2402.00898)|null|
-|**2024-01-31**|**Mitigating the Problem of Strong Priors in LMs with Context Extrapolation**|Raymond Douglas et.al.|[2401.17692](http://arxiv.org/abs/2401.17692)|null|
+|**2024-09-10**|**Mitigating the Influence of Distractor Tasks in LMs with Prior-Aware Decoding**|Raymond Douglas et.al.|[2401.17692](http://arxiv.org/abs/2401.17692)|null|
 |**2024-01-15**|**Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications**|Xuchen Suo et.al.|[2401.07612](http://arxiv.org/abs/2401.07612)|null|
 |**2024-01-02**|**A Novel Evaluation Framework for Assessing Resilience Against Prompt Injection Attacks in Large Language Models**|Daniel Wankit Yip et.al.|[2401.00991](http://arxiv.org/abs/2401.00991)|null|
 |**2024-01-08**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673](http://arxiv.org/abs/2312.17673)|**[link](https://github.com/wagner-group/prompt-injection-defense)**|
@@ -117,6 +117,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Continuous Learning of Transformer-based Audio Deepfake Detection**|Tuan Duy Nguyen Le et.al.|[2409.05924](http://arxiv.org/abs/2409.05924)|null|
 |**2024-08-20**|**Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?**|Yuankun Xie et.al.|[2408.10853](http://arxiv.org/abs/2408.10853)|**[link](https://github.com/xieyuankun/alm-add)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
 |**2024-08-13**|**Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge**|Yuankun Xie et.al.|[2408.06922](http://arxiv.org/abs/2408.06922)|null|
