@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Image Safety
@@ -109,7 +109,7 @@ layout: default
 |**2024-08-20**|**Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?**|Yuankun Xie et.al.|[2408.10853](http://arxiv.org/abs/2408.10853)|**[link](https://github.com/xieyuankun/alm-add)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
 |**2024-08-13**|**Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge**|Yuankun Xie et.al.|[2408.06922](http://arxiv.org/abs/2408.06922)|null|
-|**2024-08-09**|**ADD 2023: Towards Audio Deepfake Detection and Analysis in the Wild**|Jiangyan Yi et.al.|[2408.04967](http://arxiv.org/abs/2408.04967)|null|
+|**2024-09-12**|**ADD 2023: Towards Audio Deepfake Detection and Analysis in the Wild**|Jiangyan Yi et.al.|[2408.04967](http://arxiv.org/abs/2408.04967)|null|
 |**2024-07-26**|**SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection**|Yi Zhu et.al.|[2407.18517](http://arxiv.org/abs/2407.18517)|null|
 |**2024-07-10**|**Targeted Augmented Data for Audio Deepfake Detection**|Marcella Astrid et.al.|[2407.07598](http://arxiv.org/abs/2407.07598)|null|
 |**2024-07-01**|**Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models**|Lam Pham et.al.|[2407.01777](http://arxiv.org/abs/2407.01777)|null|

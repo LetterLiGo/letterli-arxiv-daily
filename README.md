@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2022-11-10**|**Red-Teaming the Stable Diffusion Safety Filter**|Javier Rando et.al.|[2210.04610](http://arxiv.org/abs/2210.04610)|null|
 
-<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240913>back to top</a>)</p>
 
 ## LLM Security & Privacy
 
@@ -67,7 +67,7 @@
 |**2023-09-04**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614](http://arxiv.org/abs/2309.00614)|null|
 |**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|**[link](https://github.com/hkust-knowcomp/llm-multistep-jailbreak)**|
 
-<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240913>back to top</a>)</p>
 
 ## LLM Agent Security & Privacy
 
@@ -111,7 +111,7 @@
 |**2023-07-03**|**From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**|Maanak Gupta et.al.|[2307.00691](http://arxiv.org/abs/2307.00691)|null|
 |**2024-03-02**|**Prompt Injection attack against LLM-integrated Applications**|Yi Liu et.al.|[2306.05499](http://arxiv.org/abs/2306.05499)|null|
 
-<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240913>back to top</a>)</p>
 
 ## Audio Deepfake
 
@@ -121,7 +121,7 @@
 |**2024-08-20**|**Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?**|Yuankun Xie et.al.|[2408.10853](http://arxiv.org/abs/2408.10853)|**[link](https://github.com/xieyuankun/alm-add)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
 |**2024-08-13**|**Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge**|Yuankun Xie et.al.|[2408.06922](http://arxiv.org/abs/2408.06922)|null|
-|**2024-08-09**|**ADD 2023: Towards Audio Deepfake Detection and Analysis in the Wild**|Jiangyan Yi et.al.|[2408.04967](http://arxiv.org/abs/2408.04967)|null|
+|**2024-09-12**|**ADD 2023: Towards Audio Deepfake Detection and Analysis in the Wild**|Jiangyan Yi et.al.|[2408.04967](http://arxiv.org/abs/2408.04967)|null|
 |**2024-07-26**|**SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection**|Yi Zhu et.al.|[2407.18517](http://arxiv.org/abs/2407.18517)|null|
 |**2024-07-10**|**Targeted Augmented Data for Audio Deepfake Detection**|Marcella Astrid et.al.|[2407.07598](http://arxiv.org/abs/2407.07598)|null|
 |**2024-07-01**|**Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models**|Lam Pham et.al.|[2407.01777](http://arxiv.org/abs/2407.01777)|null|
@@ -163,7 +163,7 @@
 |**2021-11-04**|**WaveFake: A Data Set to Facilitate Audio Deepfake Detection**|Joel Frank et.al.|[2111.02813](http://arxiv.org/abs/2111.02813)|**[link](https://github.com/rub-syssec/wavefake)**|
 |**2021-06-26**|**Generalized Spoofing Detection Inspired from Audio Generation Artifacts**|Yang Gao et.al.|[2104.04111](http://arxiv.org/abs/2104.04111)|null|
 
-<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240913>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/graphs/contributors
