@@ -119,7 +119,7 @@ layout: default
 |**2024-06-18**|**RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection**|Yujie Chen et.al.|[2406.06086](http://arxiv.org/abs/2406.06086)|**[link](https://github.com/cyjie429/RawBMamba)**|
 |**2024-06-12**|**Harder or Different? Understanding Generalization of Audio Deepfake Detection**|Nicolas M. Müller et.al.|[2406.03512](http://arxiv.org/abs/2406.03512)|null|
 |**2024-06-09**|**Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion Strategy**|Yuankun Xie et.al.|[2406.03240](http://arxiv.org/abs/2406.03240)|null|
-|**2024-08-13**|**Towards Robust Audio Deepfake Detection: A Evolving Benchmark for Continual Learning**|Xiaohui Zhang et.al.|[2405.08596](http://arxiv.org/abs/2405.08596)|null|
+|**2024-08-13**|**Towards Robust Audio Deepfake Detection: A Evolving Benchmark for Continual Learning**|Xiaohui Zhang et.al.|[2405.08596](http://arxiv.org/abs/2405.08596)|**[link](https://github.com/cecile-hi/evolving-fad-cl-benchmark)**|
 |**2024-05-15**|**The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio**|Yuankun Xie et.al.|[2405.04880](http://arxiv.org/abs/2405.04880)|**[link](https://github.com/xieyuankun/Codecfake)**|
 |**2024-07-01**|**Training-Free Deepfake Voice Recognition by Leveraging Large-Scale Pre-Trained Models**|Alessandro Pianese et.al.|[2405.02179](http://arxiv.org/abs/2405.02179)|null|
 |**2024-04-24**|**CLAD: Robust Audio Deepfake Detection Against Manipulation Attacks with Contrastive Learning**|Haolin Wu et.al.|[2404.15854](http://arxiv.org/abs/2404.15854)|**[link](https://github.com/clad23/clad)**|
