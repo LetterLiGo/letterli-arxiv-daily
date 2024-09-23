@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Image Safety
@@ -126,7 +126,7 @@ layout: default
 |**2024-04-24**|**CLAD: Robust Audio Deepfake Detection Against Manipulation Attacks with Contrastive Learning**|Haolin Wu et.al.|[2404.15854](http://arxiv.org/abs/2404.15854)|**[link](https://github.com/clad23/clad)**|
 |**2024-04-23**|**Retrieval-Augmented Audio Deepfake Detection**|Zuheng Kang et.al.|[2404.13892](http://arxiv.org/abs/2404.13892)|null|
 |**2024-04-19**|**Enhancing Generalization in Audio Deepfake Detection: A Neural Collapse based Sampling and Training Approach**|Mohammed Yousif et.al.|[2404.13008](http://arxiv.org/abs/2404.13008)|null|
-|**2024-04-07**|**Cross-Domain Audio Deepfake Detection: Dataset and Analysis**|Yuang Li et.al.|[2404.04904](http://arxiv.org/abs/2404.04904)|null|
+|**2024-09-20**|**Cross-Domain Audio Deepfake Detection: Dataset and Analysis**|Yuang Li et.al.|[2404.04904](http://arxiv.org/abs/2404.04904)|null|
 |**2024-03-31**|**Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake**|Orchid Chetia Phukan et.al.|[2404.00809](http://arxiv.org/abs/2404.00809)|**[link](https://github.com/orchidchetiaphukan/multilingualptm_add_naacl24)**|
 |**2024-03-21**|**Exploring Green AI for Audio Deepfake Detection**|Subhajit Saha et.al.|[2403.14290](http://arxiv.org/abs/2403.14290)|**[link](https://github.com/sahasubhajit/Speech-Spoofing-)**|
 |**2024-03-04**|**A robust audio deepfake detection system via multi-view feature**|Yujie Yang et.al.|[2403.01960](http://arxiv.org/abs/2403.01960)|null|
