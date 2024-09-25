@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2022-11-10**|**Red-Teaming the Stable Diffusion Safety Filter**|Javier Rando et.al.|[2210.04610](http://arxiv.org/abs/2210.04610)|null|
 
-<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 ## LLM Security & Privacy
 
@@ -68,7 +68,7 @@
 |**2023-09-04**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614](http://arxiv.org/abs/2309.00614)|null|
 |**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|**[link](https://github.com/hkust-knowcomp/llm-multistep-jailbreak)**|
 
-<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 ## LLM Agent Security & Privacy
 
@@ -87,7 +87,7 @@
 |**2024-07-19**|**Are you still on track!? Catching LLM Task Drift with Activations**|Sahar Abdelnabi et.al.|[2406.00799](http://arxiv.org/abs/2406.00799)|**[link](https://github.com/microsoft/TaskTracker)**|
 |**2024-06-06**|**Exfiltration of personal information from ChatGPT via prompt injection**|Gregory Schwartzman et.al.|[2406.00199](http://arxiv.org/abs/2406.00199)|null|
 |**2024-05-31**|**Preemptive Answer "Attacks" on Chain-of-Thought Reasoning**|Rongwu Xu et.al.|[2405.20902](http://arxiv.org/abs/2405.20902)|null|
-|**2024-09-07**|**Goal-guided Generative Prompt Injection Attack on Large Language Models**|Chong Zhang et.al.|[2404.07234](http://arxiv.org/abs/2404.07234)|null|
+|**2024-09-24**|**Goal-guided Generative Prompt Injection Attack on Large Language Models**|Chong Zhang et.al.|[2404.07234](http://arxiv.org/abs/2404.07234)|null|
 |**2024-07-29**|**Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes**|Divyanshu Kumar et.al.|[2404.04392](http://arxiv.org/abs/2404.04392)|null|
 |**2024-08-24**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|null|
 |**2024-03-20**|**Defending Against Indirect Prompt Injection Attacks With Spotlighting**|Keegan Hines et.al.|[2403.14720](http://arxiv.org/abs/2403.14720)|null|
@@ -112,13 +112,13 @@
 |**2023-07-03**|**From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**|Maanak Gupta et.al.|[2307.00691](http://arxiv.org/abs/2307.00691)|null|
 |**2024-03-02**|**Prompt Injection attack against LLM-integrated Applications**|Yi Liu et.al.|[2306.05499](http://arxiv.org/abs/2306.05499)|null|
 
-<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 ## Audio Deepfake
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|null|
+|**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|**[link](https://github.com/LetterLiGo/SafeEar)**|
 |**2024-09-09**|**Continuous Learning of Transformer-based Audio Deepfake Detection**|Tuan Duy Nguyen Le et.al.|[2409.05924](http://arxiv.org/abs/2409.05924)|null|
 |**2024-08-20**|**Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?**|Yuankun Xie et.al.|[2408.10853](http://arxiv.org/abs/2408.10853)|**[link](https://github.com/xieyuankun/alm-add)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
@@ -165,7 +165,7 @@
 |**2021-11-04**|**WaveFake: A Data Set to Facilitate Audio Deepfake Detection**|Joel Frank et.al.|[2111.02813](http://arxiv.org/abs/2111.02813)|**[link](https://github.com/rub-syssec/wavefake)**|
 |**2021-06-26**|**Generalized Spoofing Detection Inspired from Audio Generation Artifacts**|Yang Gao et.al.|[2104.04111](http://arxiv.org/abs/2104.04111)|null|
 
-<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/graphs/contributors

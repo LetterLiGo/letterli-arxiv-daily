@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Image Safety
@@ -77,7 +77,7 @@ layout: default
 |**2024-07-19**|**Are you still on track!? Catching LLM Task Drift with Activations**|Sahar Abdelnabi et.al.|[2406.00799](http://arxiv.org/abs/2406.00799)|**[link](https://github.com/microsoft/TaskTracker)**|
 |**2024-06-06**|**Exfiltration of personal information from ChatGPT via prompt injection**|Gregory Schwartzman et.al.|[2406.00199](http://arxiv.org/abs/2406.00199)|null|
 |**2024-05-31**|**Preemptive Answer "Attacks" on Chain-of-Thought Reasoning**|Rongwu Xu et.al.|[2405.20902](http://arxiv.org/abs/2405.20902)|null|
-|**2024-09-07**|**Goal-guided Generative Prompt Injection Attack on Large Language Models**|Chong Zhang et.al.|[2404.07234](http://arxiv.org/abs/2404.07234)|null|
+|**2024-09-24**|**Goal-guided Generative Prompt Injection Attack on Large Language Models**|Chong Zhang et.al.|[2404.07234](http://arxiv.org/abs/2404.07234)|null|
 |**2024-07-29**|**Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes**|Divyanshu Kumar et.al.|[2404.04392](http://arxiv.org/abs/2404.04392)|null|
 |**2024-08-24**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|null|
 |**2024-03-20**|**Defending Against Indirect Prompt Injection Attacks With Spotlighting**|Keegan Hines et.al.|[2403.14720](http://arxiv.org/abs/2403.14720)|null|
@@ -106,7 +106,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|null|
+|**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|**[link](https://github.com/LetterLiGo/SafeEar)**|
 |**2024-09-09**|**Continuous Learning of Transformer-based Audio Deepfake Detection**|Tuan Duy Nguyen Le et.al.|[2409.05924](http://arxiv.org/abs/2409.05924)|null|
 |**2024-08-20**|**Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?**|Yuankun Xie et.al.|[2408.10853](http://arxiv.org/abs/2408.10853)|**[link](https://github.com/xieyuankun/alm-add)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
