@@ -54,7 +54,7 @@
 |**2024-04-12**|**Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts**|Tianyu Zhang et.al.|[2404.08309](http://arxiv.org/abs/2404.08309)|null|
 |**2024-03-20**|**Mapping LLM Security Landscapes: A Comprehensive Stakeholder Risk Assessment Proposal**|Rahul Pankajakshan et.al.|[2403.13309](http://arxiv.org/abs/2403.13309)|null|
 |**2024-03-23**|**Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models**|Yi Luo et.al.|[2403.11838](http://arxiv.org/abs/2403.11838)|**[link](https://github.com/xmudm/guide-align)**|
-|**2024-03-13**|**Tastle: Distract Large Language Models for Automatic Jailbreak Attack**|Zeguan Xiao et.al.|[2403.08424](http://arxiv.org/abs/2403.08424)|null|
+|**2024-03-13**|**Tastle: Distract Large Language Models for Automatic Jailbreak Attack**|Zeguan Xiao et.al.|[2403.08424](http://arxiv.org/abs/2403.08424)|**[link](https://github.com/sufenlp/AttanttionShiftJailbreak)**|
 |**2024-03-14**|**On Protecting the Data Privacy of Large Language Models (LLMs): A Survey**|Biwei Yan et.al.|[2403.05156](http://arxiv.org/abs/2403.05156)|null|
 |**2024-02-28**|**A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems**|Fangzhou Wu et.al.|[2402.18649](http://arxiv.org/abs/2402.18649)|null|
 |**2024-06-10**|**Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**|Tong Liu et.al.|[2402.18104](http://arxiv.org/abs/2402.18104)|**[link](https://github.com/llm-dra/dra)**|
