@@ -20,7 +20,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|null|
+|**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/secalign)**|
 |**2024-10-06**|**Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning**|Yanrui Du et.al.|[2410.04524](http://arxiv.org/abs/2410.04524)|null|
 |**2024-10-04**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|null|
 |**2024-10-03**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|null|
@@ -69,11 +69,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|null|
+|**2024-10-09**|**Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems**|Donghyun Lee et.al.|[2410.07283](http://arxiv.org/abs/2410.07283)|null|
+|**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/secalign)**|
 |**2024-10-07**|**A test suite of prompt injection attacks for LLM-based machine translation**|Antonio Valerio Miceli-Barone et.al.|[2410.05047](http://arxiv.org/abs/2410.05047)|**[link](https://github.com/Avmb/adversarial_MT_prompt_injection)**|
 |**2024-10-03**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|**[link](https://github.com/agiresearch/asb)**|
 |**2024-09-29**|**GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks**|Rongchang Li et.al.|[2409.19521](http://arxiv.org/abs/2409.19521)|null|
-|**2024-09-27**|**System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective**|Fangzhou Wu et.al.|[2409.19091](http://arxiv.org/abs/2409.19091)|**[link](https://github.com/fzwark/secure_llm_system)**|
+|**2024-10-10**|**System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective**|Fangzhou Wu et.al.|[2409.19091](http://arxiv.org/abs/2409.19091)|**[link](https://github.com/fzwark/secure_llm_system)**|
 |**2024-09-23**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|**[link](https://github.com/sherdencooper/PromptFuzz)**|
 |**2024-09-20**|**Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2409.13331](http://arxiv.org/abs/2409.13331)|null|
 |**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|**[link](https://github.com/v587su/FDI)**|
@@ -118,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Toward Robust Real-World Audio Deepfake Detection: Closing the Explainability Gap**|Georgia Channing et.al.|[2410.07436](http://arxiv.org/abs/2410.07436)|null|
+|**2024-10-09**|**Learn from Real: Reality Defender's Submission to ASVspoof5 Challenge**|Yi Zhu et.al.|[2410.07379](http://arxiv.org/abs/2410.07379)|null|
 |**2024-09-24**|**Representation Loss Minimization with Randomized Selection Strategy for Efficient Environmental Fake Audio Detection**|Orchid Chetia Phukan et.al.|[2409.15767](http://arxiv.org/abs/2409.15767)|null|
 |**2024-09-21**|**Strong Alone, Stronger Together: Synergizing Modality-Binding Foundation Models with Optimal Transport for Non-Verbal Emotion Recognition**|Orchid Chetia Phukan et.al.|[2409.14221](http://arxiv.org/abs/2409.14221)|null|
 |**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|**[link](https://github.com/LetterLiGo/SafeEar)**|
