@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2022-11-10**|**Red-Teaming the Stable Diffusion Safety Filter**|Javier Rando et.al.|[2210.04610](http://arxiv.org/abs/2210.04610)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## LLM Security & Privacy
 
@@ -35,7 +35,7 @@
 |**2024-10-01**|**Extracting Memorized Training Data via Decomposition**|Ellen Su et.al.|[2409.12367](http://arxiv.org/abs/2409.12367)|null|
 |**2024-09-12**|**Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks**|Benji Peng et.al.|[2409.08087](http://arxiv.org/abs/2409.08087)|null|
 |**2024-09-06**|**Recent Advances in Attack and Defense Approaches of Large Language Models**|Jing Cui et.al.|[2409.03274](http://arxiv.org/abs/2409.03274)|null|
-|**2024-08-30**|**Safety Layers of Aligned Large Language Models: The Key to LLM Security**|Shen Li et.al.|[2408.17003](http://arxiv.org/abs/2408.17003)|null|
+|**2024-10-10**|**Safety Layers in Aligned Large Language Models: The Key to LLM Security**|Shen Li et.al.|[2408.17003](http://arxiv.org/abs/2408.17003)|null|
 |**2024-08-27**|**Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207](http://arxiv.org/abs/2408.15207)|null|
 |**2024-09-06**|**LLM-PBE: Assessing Data Privacy in Large Language Models**|Qinbin Li et.al.|[2408.12787](http://arxiv.org/abs/2408.12787)|null|
 |**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749](http://arxiv.org/abs/2408.11749)|**[link](https://github.com/siebeniris/vec2text_exp)**|
@@ -73,7 +73,7 @@
 |**2023-09-04**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614](http://arxiv.org/abs/2309.00614)|null|
 |**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|**[link](https://github.com/hkust-knowcomp/llm-multistep-jailbreak)**|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## LLM Agent Security & Privacy
 
@@ -124,7 +124,7 @@
 |**2023-07-03**|**From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**|Maanak Gupta et.al.|[2307.00691](http://arxiv.org/abs/2307.00691)|null|
 |**2024-03-02**|**Prompt Injection attack against LLM-integrated Applications**|Yi Liu et.al.|[2306.05499](http://arxiv.org/abs/2306.05499)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Audio Deepfake
 
@@ -179,7 +179,7 @@
 |**2021-11-04**|**WaveFake: A Data Set to Facilitate Audio Deepfake Detection**|Joel Frank et.al.|[2111.02813](http://arxiv.org/abs/2111.02813)|**[link](https://github.com/rub-syssec/wavefake)**|
 |**2021-06-26**|**Generalized Spoofing Detection Inspired from Audio Generation Artifacts**|Yang Gao et.al.|[2104.04111](http://arxiv.org/abs/2104.04111)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/graphs/contributors
