@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2022-11-10**|**Red-Teaming the Stable Diffusion Safety Filter**|Javier Rando et.al.|[2210.04610](http://arxiv.org/abs/2210.04610)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## LLM Security & Privacy
 
@@ -73,7 +73,7 @@
 |**2023-09-04**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614](http://arxiv.org/abs/2309.00614)|null|
 |**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|**[link](https://github.com/hkust-knowcomp/llm-multistep-jailbreak)**|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## LLM Agent Security & Privacy
 
@@ -112,7 +112,7 @@
 |**2024-09-25**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|**[link](https://github.com/sizhe-chen/struq)**|
 |**2024-02-08**|**In-Context Learning Can Re-learn Forbidden Tasks**|Sophie Xhonneux et.al.|[2402.05723](http://arxiv.org/abs/2402.05723)|null|
 |**2024-01-31**|**An Early Categorization of Prompt Injection Attacks on Large Language Models**|Sippo Rossi et.al.|[2402.00898](http://arxiv.org/abs/2402.00898)|null|
-|**2024-09-10**|**Mitigating the Influence of Distractor Tasks in LMs with Prior-Aware Decoding**|Raymond Douglas et.al.|[2401.17692](http://arxiv.org/abs/2401.17692)|null|
+|**2024-10-15**|**Mitigating the Influence of Distractor Tasks in LMs with Prior-Aware Decoding**|Raymond Douglas et.al.|[2401.17692](http://arxiv.org/abs/2401.17692)|null|
 |**2024-01-15**|**Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications**|Xuchen Suo et.al.|[2401.07612](http://arxiv.org/abs/2401.07612)|null|
 |**2024-01-02**|**A Novel Evaluation Framework for Assessing Resilience Against Prompt Injection Attacks in Large Language Models**|Daniel Wankit Yip et.al.|[2401.00991](http://arxiv.org/abs/2401.00991)|null|
 |**2024-01-08**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673](http://arxiv.org/abs/2312.17673)|**[link](https://github.com/wagner-group/prompt-injection-defense)**|
@@ -125,7 +125,7 @@
 |**2023-07-03**|**From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**|Maanak Gupta et.al.|[2307.00691](http://arxiv.org/abs/2307.00691)|null|
 |**2024-03-02**|**Prompt Injection attack against LLM-integrated Applications**|Yi Liu et.al.|[2306.05499](http://arxiv.org/abs/2306.05499)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Audio Deepfake
 
@@ -183,7 +183,7 @@
 |**2021-11-04**|**WaveFake: A Data Set to Facilitate Audio Deepfake Detection**|Joel Frank et.al.|[2111.02813](http://arxiv.org/abs/2111.02813)|**[link](https://github.com/rub-syssec/wavefake)**|
 |**2021-06-26**|**Generalized Spoofing Detection Inspired from Audio Generation Artifacts**|Yang Gao et.al.|[2104.04111](http://arxiv.org/abs/2104.04111)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/graphs/contributors

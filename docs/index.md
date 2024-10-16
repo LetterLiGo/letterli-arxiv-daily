@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Image Safety
@@ -102,7 +102,7 @@ layout: default
 |**2024-09-25**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|**[link](https://github.com/sizhe-chen/struq)**|
 |**2024-02-08**|**In-Context Learning Can Re-learn Forbidden Tasks**|Sophie Xhonneux et.al.|[2402.05723](http://arxiv.org/abs/2402.05723)|null|
 |**2024-01-31**|**An Early Categorization of Prompt Injection Attacks on Large Language Models**|Sippo Rossi et.al.|[2402.00898](http://arxiv.org/abs/2402.00898)|null|
-|**2024-09-10**|**Mitigating the Influence of Distractor Tasks in LMs with Prior-Aware Decoding**|Raymond Douglas et.al.|[2401.17692](http://arxiv.org/abs/2401.17692)|null|
+|**2024-10-15**|**Mitigating the Influence of Distractor Tasks in LMs with Prior-Aware Decoding**|Raymond Douglas et.al.|[2401.17692](http://arxiv.org/abs/2401.17692)|null|
 |**2024-01-15**|**Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications**|Xuchen Suo et.al.|[2401.07612](http://arxiv.org/abs/2401.07612)|null|
 |**2024-01-02**|**A Novel Evaluation Framework for Assessing Resilience Against Prompt Injection Attacks in Large Language Models**|Daniel Wankit Yip et.al.|[2401.00991](http://arxiv.org/abs/2401.00991)|null|
 |**2024-01-08**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673](http://arxiv.org/abs/2312.17673)|**[link](https://github.com/wagner-group/prompt-injection-defense)**|
