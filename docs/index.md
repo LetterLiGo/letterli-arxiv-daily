@@ -20,6 +20,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237](http://arxiv.org/abs/2410.13237)|null|
 |**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/secalign)**|
 |**2024-10-06**|**Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning**|Yanrui Du et.al.|[2410.04524](http://arxiv.org/abs/2410.04524)|null|
 |**2024-10-04**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|null|
