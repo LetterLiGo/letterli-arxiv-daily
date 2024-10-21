@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting**|Shigang Liu et.al.|[2410.14321](http://arxiv.org/abs/2410.14321)|null|
 |**2024-10-17**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237](http://arxiv.org/abs/2410.13237)|null|
 |**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/secalign)**|
 |**2024-10-06**|**Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning**|Yanrui Du et.al.|[2410.04524](http://arxiv.org/abs/2410.04524)|null|
@@ -80,6 +81,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models**|Cody Clop et.al.|[2410.14479](http://arxiv.org/abs/2410.14479)|null|
 |**2024-10-09**|**Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems**|Donghyun Lee et.al.|[2410.07283](http://arxiv.org/abs/2410.07283)|null|
 |**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/secalign)**|
 |**2024-10-07**|**A test suite of prompt injection attacks for LLM-based machine translation**|Antonio Valerio Miceli-Barone et.al.|[2410.05047](http://arxiv.org/abs/2410.05047)|**[link](https://github.com/Avmb/adversarial_MT_prompt_injection)**|
