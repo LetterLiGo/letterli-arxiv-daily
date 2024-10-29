@@ -83,6 +83,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Palisade -- Prompt Injection Detection Framework**|Sahasra Kokkula et.al.|[2410.21146](http://arxiv.org/abs/2410.21146)|null|
 |**2024-10-22**|**Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In**|Itay Nakash et.al.|[2410.16950](http://arxiv.org/abs/2410.16950)|null|
 |**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|**[link](https://github.com/IDEA-XL/ChemSafety)**|
 |**2024-10-18**|**Making LLMs Vulnerable to Prompt Injection via Poisoning Alignment**|Zedian Shao et.al.|[2410.14827](http://arxiv.org/abs/2410.14827)|**[link](https://github.com/sadcardation/poisonedalign)**|
