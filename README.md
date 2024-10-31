@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2022-11-10**|**Red-Teaming the Stable Diffusion Safety Filter**|Javier Rando et.al.|[2210.04610](http://arxiv.org/abs/2210.04610)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## LLM Security & Privacy
 
@@ -77,16 +77,16 @@
 |**2023-09-04**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614](http://arxiv.org/abs/2309.00614)|null|
 |**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|**[link](https://github.com/hkust-knowcomp/llm-multistep-jailbreak)**|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## LLM Agent Security & Privacy
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|null|
-|**2024-10-28**|**FATH: Authentication-based Test-time Defense against Indirect Prompt Injection Attacks**|Jiongxiao Wang et.al.|[2410.21492](http://arxiv.org/abs/2410.21492)|null|
+|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**|
+|**2024-10-28**|**FATH: Authentication-based Test-time Defense against Indirect Prompt Injection Attacks**|Jiongxiao Wang et.al.|[2410.21492](http://arxiv.org/abs/2410.21492)|**[link](https://github.com/jayfeather1024/fath)**|
 |**2024-10-28**|**Fine-tuned Large Language Models (LLMs): Improved Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2410.21337](http://arxiv.org/abs/2410.21337)|null|
-|**2024-10-27**|**LLM Robustness Against Misinformation in Biomedical Question Answering**|Alexander Bondarenko et.al.|[2410.21330](http://arxiv.org/abs/2410.21330)|null|
+|**2024-10-27**|**LLM Robustness Against Misinformation in Biomedical Question Answering**|Alexander Bondarenko et.al.|[2410.21330](http://arxiv.org/abs/2410.21330)|**[link](https://github.com/alebondarenko/llm-robustness)**|
 |**2024-10-28**|**Palisade -- Prompt Injection Detection Framework**|Sahasra Kokkula et.al.|[2410.21146](http://arxiv.org/abs/2410.21146)|null|
 |**2024-10-22**|**Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In**|Itay Nakash et.al.|[2410.16950](http://arxiv.org/abs/2410.16950)|null|
 |**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|**[link](https://github.com/IDEA-XL/ChemSafety)**|
@@ -138,7 +138,7 @@
 |**2023-07-03**|**From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**|Maanak Gupta et.al.|[2307.00691](http://arxiv.org/abs/2307.00691)|null|
 |**2024-03-02**|**Prompt Injection attack against LLM-integrated Applications**|Yi Liu et.al.|[2306.05499](http://arxiv.org/abs/2306.05499)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## Audio Deepfake
 
@@ -196,7 +196,7 @@
 |**2021-11-04**|**WaveFake: A Data Set to Facilitate Audio Deepfake Detection**|Joel Frank et.al.|[2111.02813](http://arxiv.org/abs/2111.02813)|**[link](https://github.com/rub-syssec/wavefake)**|
 |**2021-06-26**|**Generalized Spoofing Detection Inspired from Audio Generation Artifacts**|Yang Gao et.al.|[2104.04111](http://arxiv.org/abs/2104.04111)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/letterli-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/letterli-arxiv-daily/graphs/contributors
