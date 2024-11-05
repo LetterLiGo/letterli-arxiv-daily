@@ -56,7 +56,7 @@
 |**2024-06-13**|**SecureLLM: Using Compositionality to Build Provably Secure Language Models for Private, Sensitive, and Secret Data**|Abdulrahman Alabdulkareem et.al.|[2405.09805](http://arxiv.org/abs/2405.09805)|**[link](https://github.com/scuwr/securellm)**|
 |**2024-05-03**|**LLM Security Guard for Code**|Arya Kavian et.al.|[2405.01103](http://arxiv.org/abs/2405.01103)|**[link](https://github.com/aryakvnust/llmsecguard)**|
 |**2024-04-19**|**CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models**|Manish Bhatt et.al.|[2404.13161](http://arxiv.org/abs/2404.13161)|**[link](https://github.com/facebookresearch/purplellama)**|
-|**2024-04-16**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|null|
+|**2024-11-04**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|null|
 |**2024-04-16**|**Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning**|Xiao Wang et.al.|[2404.10552](http://arxiv.org/abs/2404.10552)|null|
 |**2024-04-12**|**Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts**|Tianyu Zhang et.al.|[2404.08309](http://arxiv.org/abs/2404.08309)|null|
 |**2024-03-20**|**Mapping LLM Security Landscapes: A Comprehensive Stakeholder Risk Assessment Proposal**|Rahul Pankajakshan et.al.|[2403.13309](http://arxiv.org/abs/2403.13309)|null|
@@ -84,6 +84,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-01**|**Defense Against Prompt Injection Attack by Leveraging Attack Techniques**|Yulin Chen et.al.|[2411.00459](http://arxiv.org/abs/2411.00459)|null|
+|**2024-11-01**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
 |**2024-10-28**|**Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures**|Victoria Benjamin et.al.|[2410.23308](http://arxiv.org/abs/2410.23308)|null|
 |**2024-10-30**|**InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models**|Hao Li et.al.|[2410.22770](http://arxiv.org/abs/2410.22770)|**[link](https://github.com/safolab-wisc/injecguard)**|
 |**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**|
@@ -113,7 +115,7 @@
 |**2024-06-11**|**Knowledge Return Oriented Prompting (KROP)**|Jason Martin et.al.|[2406.11880](http://arxiv.org/abs/2406.11880)|null|
 |**2024-09-05**|**SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner**|Xunguang Wang et.al.|[2406.05498](http://arxiv.org/abs/2406.05498)|null|
 |**2024-09-25**|**Ranking Manipulation for Conversational Search Engines**|Samuel Pfrommer et.al.|[2406.03589](http://arxiv.org/abs/2406.03589)|**[link](https://github.com/spfrommer/ranking_manipulation_data_pipeline)**|
-|**2024-07-19**|**Are you still on track!? Catching LLM Task Drift with Activations**|Sahar Abdelnabi et.al.|[2406.00799](http://arxiv.org/abs/2406.00799)|**[link](https://github.com/microsoft/TaskTracker)**|
+|**2024-11-03**|**Are you still on track!? Catching LLM Task Drift with Activations**|Sahar Abdelnabi et.al.|[2406.00799](http://arxiv.org/abs/2406.00799)|**[link](https://github.com/microsoft/TaskTracker)**|
 |**2024-06-06**|**Exfiltration of personal information from ChatGPT via prompt injection**|Gregory Schwartzman et.al.|[2406.00199](http://arxiv.org/abs/2406.00199)|null|
 |**2024-05-31**|**Preemptive Answer "Attacks" on Chain-of-Thought Reasoning**|Rongwu Xu et.al.|[2405.20902](http://arxiv.org/abs/2405.20902)|null|
 |**2024-09-24**|**Goal-guided Generative Prompt Injection Attack on Large Language Models**|Chong Zhang et.al.|[2404.07234](http://arxiv.org/abs/2404.07234)|null|
