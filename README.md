@@ -28,6 +28,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-10**|**SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains**|Bijoy Ahmed Saiem et.al.|[2411.06426](http://arxiv.org/abs/2411.06426)|null|
 |**2024-11-06**|**Diversity Helps Jailbreak Large Language Models**|Weiliang Zhao et.al.|[2411.04223](http://arxiv.org/abs/2411.04223)|null|
 |**2024-10-28**|**Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures**|Victoria Benjamin et.al.|[2410.23308](http://arxiv.org/abs/2410.23308)|null|
 |**2024-10-22**|**DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models**|Chen Qian et.al.|[2410.16672](http://arxiv.org/abs/2410.16672)|**[link](https://github.com/chnq/dean)**|
@@ -120,7 +121,7 @@
 |**2024-11-03**|**Are you still on track!? Catching LLM Task Drift with Activations**|Sahar Abdelnabi et.al.|[2406.00799](http://arxiv.org/abs/2406.00799)|**[link](https://github.com/microsoft/TaskTracker)**|
 |**2024-06-06**|**Exfiltration of personal information from ChatGPT via prompt injection**|Gregory Schwartzman et.al.|[2406.00199](http://arxiv.org/abs/2406.00199)|null|
 |**2024-05-31**|**Preemptive Answer "Attacks" on Chain-of-Thought Reasoning**|Rongwu Xu et.al.|[2405.20902](http://arxiv.org/abs/2405.20902)|null|
-|**2024-09-24**|**Goal-guided Generative Prompt Injection Attack on Large Language Models**|Chong Zhang et.al.|[2404.07234](http://arxiv.org/abs/2404.07234)|null|
+|**2024-11-09**|**Goal-guided Generative Prompt Injection Attack on Large Language Models**|Chong Zhang et.al.|[2404.07234](http://arxiv.org/abs/2404.07234)|null|
 |**2024-07-29**|**Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes**|Divyanshu Kumar et.al.|[2404.04392](http://arxiv.org/abs/2404.04392)|null|
 |**2024-08-24**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|null|
 |**2024-03-20**|**Defending Against Indirect Prompt Injection Attacks With Spotlighting**|Keegan Hines et.al.|[2403.14720](http://arxiv.org/abs/2403.14720)|null|
@@ -151,6 +152,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Toward Transdisciplinary Approaches to Audio Deepfake Discernment**|Vandana P. Janeja et.al.|[2411.05969](http://arxiv.org/abs/2411.05969)|null|
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
 |**2024-10-09**|**Toward Robust Real-World Audio Deepfake Detection: Closing the Explainability Gap**|Georgia Channing et.al.|[2410.07436](http://arxiv.org/abs/2410.07436)|null|
 |**2024-10-09**|**Learn from Real: Reality Defender's Submission to ASVspoof5 Challenge**|Yi Zhu et.al.|[2410.07379](http://arxiv.org/abs/2410.07379)|null|
