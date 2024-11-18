@@ -113,7 +113,7 @@ layout: default
 |**2024-05-31**|**Preemptive Answer "Attacks" on Chain-of-Thought Reasoning**|Rongwu Xu et.al.|[2405.20902](http://arxiv.org/abs/2405.20902)|null|
 |**2024-11-09**|**Goal-guided Generative Prompt Injection Attack on Large Language Models**|Chong Zhang et.al.|[2404.07234](http://arxiv.org/abs/2404.07234)|null|
 |**2024-07-29**|**Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes**|Divyanshu Kumar et.al.|[2404.04392](http://arxiv.org/abs/2404.04392)|null|
-|**2024-08-24**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|null|
+|**2024-08-24**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|**[link](https://github.com/shijiawenwen/judgedeceiver)**|
 |**2024-03-20**|**Defending Against Indirect Prompt Injection Attacks With Spotlighting**|Keegan Hines et.al.|[2403.14720](http://arxiv.org/abs/2403.14720)|null|
 |**2024-03-14**|**Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks**|Zhifan Sun et.al.|[2403.09832](http://arxiv.org/abs/2403.09832)|**[link](https://github.com/avmb/mt_scaling_prompt_injection)**|
 |**2024-03-07**|**Automatic and Universal Prompt Injection Attacks against Large Language Models**|Xiaogeng Liu et.al.|[2403.04957](http://arxiv.org/abs/2403.04957)|**[link](https://github.com/sheltonliu-n/universal-prompt-injection)**|
