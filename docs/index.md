@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Image Safety
@@ -36,7 +36,7 @@ layout: default
 |**2024-09-06**|**Recent Advances in Attack and Defense Approaches of Large Language Models**|Jing Cui et.al.|[2409.03274](http://arxiv.org/abs/2409.03274)|null|
 |**2024-10-11**|**Safety Layers in Aligned Large Language Models: The Key to LLM Security**|Shen Li et.al.|[2408.17003](http://arxiv.org/abs/2408.17003)|null|
 |**2024-08-27**|**Investigating Coverage Criteria in Large Language Models: An In-Depth Study Through Jailbreak Attacks**|Shide Zhou et.al.|[2408.15207](http://arxiv.org/abs/2408.15207)|null|
-|**2024-09-06**|**LLM-PBE: Assessing Data Privacy in Large Language Models**|Qinbin Li et.al.|[2408.12787](http://arxiv.org/abs/2408.12787)|null|
+|**2024-09-06**|**LLM-PBE: Assessing Data Privacy in Large Language Models**|Qinbin Li et.al.|[2408.12787](http://arxiv.org/abs/2408.12787)|**[link](https://github.com/QinbinLi/LLM-PBE)**|
 |**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749](http://arxiv.org/abs/2408.11749)|**[link](https://github.com/siebeniris/vec2text_exp)**|
 |**2024-11-17**|**Blockchain for Large Language Model Security and Safety: A Holistic Survey**|Caleb Geren et.al.|[2407.20181](http://arxiv.org/abs/2407.20181)|null|
 |**2024-07-11**|**Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection**|Yuqi Zhou et.al.|[2406.19845](http://arxiv.org/abs/2406.19845)|null|
