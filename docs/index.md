@@ -82,7 +82,7 @@ layout: default
 |**2024-11-01**|**Defense Against Prompt Injection Attack by Leveraging Attack Techniques**|Yulin Chen et.al.|[2411.00459](http://arxiv.org/abs/2411.00459)|null|
 |**2024-11-01**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
 |**2024-10-28**|**Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures**|Victoria Benjamin et.al.|[2410.23308](http://arxiv.org/abs/2410.23308)|null|
-|**2024-10-30**|**InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models**|Hao Li et.al.|[2410.22770](http://arxiv.org/abs/2410.22770)|**[link](https://github.com/safolab-wisc/injecguard)**|
+|**2024-11-24**|**InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models**|Hao Li et.al.|[2410.22770](http://arxiv.org/abs/2410.22770)|**[link](https://github.com/safolab-wisc/injecguard)**|
 |**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**|
 |**2024-10-28**|**FATH: Authentication-based Test-time Defense against Indirect Prompt Injection Attacks**|Jiongxiao Wang et.al.|[2410.21492](http://arxiv.org/abs/2410.21492)|**[link](https://github.com/jayfeather1024/fath)**|
 |**2024-11-07**|**Fine-tuned Large Language Models (LLMs): Improved Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2410.21337](http://arxiv.org/abs/2410.21337)|null|
@@ -106,7 +106,7 @@ layout: default
 |**2024-07-23**|**Prompt Injection Attacks on Large Language Models in Oncology**|Jan Clusmann et.al.|[2407.18981](http://arxiv.org/abs/2407.18981)|null|
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|**[link](https://github.com/liudaizong/awesome-lvlm-attack)**|
 |**2024-06-20**|**Prompt Injection Attacks in Defended Systems**|Daniil Khomsky et.al.|[2406.14048](http://arxiv.org/abs/2406.14048)|null|
-|**2024-07-18**|**AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents**|Edoardo Debenedetti et.al.|[2406.13352](http://arxiv.org/abs/2406.13352)|**[link](https://github.com/ethz-spylab/agentdojo)**|
+|**2024-11-24**|**AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents**|Edoardo Debenedetti et.al.|[2406.13352](http://arxiv.org/abs/2406.13352)|**[link](https://github.com/ethz-spylab/agentdojo)**|
 |**2024-06-11**|**Knowledge Return Oriented Prompting (KROP)**|Jason Martin et.al.|[2406.11880](http://arxiv.org/abs/2406.11880)|null|
 |**2024-09-05**|**SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner**|Xunguang Wang et.al.|[2406.05498](http://arxiv.org/abs/2406.05498)|null|
 |**2024-09-25**|**Ranking Manipulation for Conversational Search Engines**|Samuel Pfrommer et.al.|[2406.03589](http://arxiv.org/abs/2406.03589)|**[link](https://github.com/spfrommer/ranking_manipulation_data_pipeline)**|
@@ -133,7 +133,7 @@ layout: default
 |**2023-12-12**|**Maatphor: Automated Variant Analysis for Prompt Injection Attacks**|Ahmed Salem et.al.|[2312.11513](http://arxiv.org/abs/2312.11513)|null|
 |**2024-05-25**|**Assessing Prompt Injection Risks in 200+ Custom GPTs**|Jiahao Yu et.al.|[2311.11538](http://arxiv.org/abs/2311.11538)|**[link](https://github.com/sherdencooper/prompt-injection)**|
 |**2023-11-02**|**Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game**|Sam Toyer et.al.|[2311.01011](http://arxiv.org/abs/2311.01011)|null|
-|**2024-06-01**|**Formalizing and Benchmarking Prompt Injection Attacks and Defenses**|Yupei Liu et.al.|[2310.12815](http://arxiv.org/abs/2310.12815)|**[link](https://github.com/liu00222/open-prompt-injection)**|
+|**2024-11-24**|**Formalizing and Benchmarking Prompt Injection Attacks and Defenses**|Yupei Liu et.al.|[2310.12815](http://arxiv.org/abs/2310.12815)|**[link](https://github.com/liu00222/open-prompt-injection)**|
 |**2023-11-25**|**Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/instruction-following-robustness-eval)**|
 |**2023-07-03**|**From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy**|Maanak Gupta et.al.|[2307.00691](http://arxiv.org/abs/2307.00691)|null|
 |**2024-03-02**|**Prompt Injection attack against LLM-integrated Applications**|Yi Liu et.al.|[2306.05499](http://arxiv.org/abs/2306.05499)|null|
