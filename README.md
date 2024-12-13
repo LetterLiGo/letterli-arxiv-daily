@@ -159,6 +159,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Audios Don't Lie: Multi-Frequency Channel Attention Mechanism for Audio Deepfake Detection**|Yangguang Feng et.al.|[2412.09467](http://arxiv.org/abs/2412.09467)|null|
 |**2024-12-10**|**From Audio Deepfake Detection to AI-Generated Music Detection -- A Pathway and Overview**|Yupei Li et.al.|[2412.00571](http://arxiv.org/abs/2412.00571)|null|
 |**2024-11-08**|**Toward Transdisciplinary Approaches to Audio Deepfake Discernment**|Vandana P. Janeja et.al.|[2411.05969](http://arxiv.org/abs/2411.05969)|null|
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
