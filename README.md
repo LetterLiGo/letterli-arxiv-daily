@@ -124,6 +124,7 @@
 |**2024-09-09**|**A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems**|Wenxiao Zhang et.al.|[2408.03515](http://arxiv.org/abs/2408.03515)|null|
 |**2024-08-01**|**WHITE PAPER: A Brief Exploration of Data Exfiltration using GCG Suffixes**|Victor Valbuena et.al.|[2408.00925](http://arxiv.org/abs/2408.00925)|null|
 |**2024-07-23**|**Prompt Injection Attacks on Large Language Models in Oncology**|Jan Clusmann et.al.|[2407.18981](http://arxiv.org/abs/2407.18981)|null|
+|**2025-01-16**|**TPIA: Towards Target-specific Prompt Injection Attack against Code-oriented Large Language Models**|Yuchen Yang et.al.|[2407.09164](http://arxiv.org/abs/2407.09164)|null|
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|**[link](https://github.com/liudaizong/awesome-lvlm-attack)**|
 |**2024-06-20**|**Prompt Injection Attacks in Defended Systems**|Daniil Khomsky et.al.|[2406.14048](http://arxiv.org/abs/2406.14048)|null|
 |**2024-11-24**|**AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents**|Edoardo Debenedetti et.al.|[2406.13352](http://arxiv.org/abs/2406.13352)|**[link](https://github.com/ethz-spylab/agentdojo)**|
