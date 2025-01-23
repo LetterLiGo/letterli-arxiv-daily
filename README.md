@@ -95,6 +95,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**An Empirically-grounded tool for Automatic Prompt Linting and Repair: A Case Study on Bias, Vulnerability, and Optimization in Developer Prompts**|Dhia Elhaq Rzig et.al.|[2501.12521](http://arxiv.org/abs/2501.12521)|null|
 |**2024-12-24**|**Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning**|Alex Beutel et.al.|[2412.18693](http://arxiv.org/abs/2412.18693)|null|
 |**2024-12-21**|**The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents**|Feiran Jia et.al.|[2412.16682](http://arxiv.org/abs/2412.16682)|null|
 |**2024-12-11**|**What You See Is Not Always What You Get: An Empirical Study of Code Comprehension by Large Language Models**|Bangshuo Zhu et.al.|[2412.08098](http://arxiv.org/abs/2412.08098)|null|
