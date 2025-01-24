@@ -154,6 +154,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain**|Petr Grinberg et.al.|[2501.13887](http://arxiv.org/abs/2501.13887)|null|
 |**2025-01-21**|**Transferable Adversarial Attacks on Audio Deepfake Detection**|Muhammad Umar Farooq et.al.|[2501.11902](http://arxiv.org/abs/2501.11902)|null|
 |**2025-01-11**|**Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition**|Yuankun Xie et.al.|[2501.06514](http://arxiv.org/abs/2501.06514)|**[link](https://github.com/xieyuankun/st-codecfake)**|
 |**2025-01-09**|**Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels**|Falih Gozi Febrinanto et.al.|[2501.04942](http://arxiv.org/abs/2501.04942)|null|
