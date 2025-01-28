@@ -95,6 +95,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-25**|**PromptShield: Deployable Detection for Prompt Injection Attacks**|Dennis Jacob et.al.|[2501.15145](http://arxiv.org/abs/2501.15145)|null|
 |**2025-01-21**|**An Empirically-grounded tool for Automatic Prompt Linting and Repair: A Case Study on Bias, Vulnerability, and Optimization in Developer Prompts**|Dhia Elhaq Rzig et.al.|[2501.12521](http://arxiv.org/abs/2501.12521)|null|
 |**2024-12-24**|**Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning**|Alex Beutel et.al.|[2412.18693](http://arxiv.org/abs/2412.18693)|null|
 |**2024-12-21**|**The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents**|Feiran Jia et.al.|[2412.16682](http://arxiv.org/abs/2412.16682)|null|
@@ -151,7 +152,7 @@
 |**2024-01-15**|**Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications**|Xuchen Suo et.al.|[2401.07612](http://arxiv.org/abs/2401.07612)|null|
 |**2024-01-02**|**A Novel Evaluation Framework for Assessing Resilience Against Prompt Injection Attacks in Large Language Models**|Daniel Wankit Yip et.al.|[2401.00991](http://arxiv.org/abs/2401.00991)|null|
 |**2024-01-08**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673](http://arxiv.org/abs/2312.17673)|**[link](https://github.com/wagner-group/prompt-injection-defense)**|
-|**2024-03-08**|**Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models**|Jingwei Yi et.al.|[2312.14197](http://arxiv.org/abs/2312.14197)|**[link](https://github.com/microsoft/BIPIA)**|
+|**2025-01-27**|**Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models**|Jingwei Yi et.al.|[2312.14197](http://arxiv.org/abs/2312.14197)|**[link](https://github.com/microsoft/BIPIA)**|
 |**2023-12-12**|**Maatphor: Automated Variant Analysis for Prompt Injection Attacks**|Ahmed Salem et.al.|[2312.11513](http://arxiv.org/abs/2312.11513)|null|
 |**2024-05-25**|**Assessing Prompt Injection Risks in 200+ Custom GPTs**|Jiahao Yu et.al.|[2311.11538](http://arxiv.org/abs/2311.11538)|**[link](https://github.com/sherdencooper/prompt-injection)**|
 |**2023-11-02**|**Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game**|Sam Toyer et.al.|[2311.01011](http://arxiv.org/abs/2311.01011)|null|
@@ -167,7 +168,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
-|**2025-01-23**|**What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain**|Petr Grinberg et.al.|[2501.13887](http://arxiv.org/abs/2501.13887)|null|
+|**2025-01-27**|**What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain**|Petr Grinberg et.al.|[2501.13887](http://arxiv.org/abs/2501.13887)|null|
 |**2025-01-21**|**Transferable Adversarial Attacks on Audio Deepfake Detection**|Muhammad Umar Farooq et.al.|[2501.11902](http://arxiv.org/abs/2501.11902)|null|
 |**2025-01-11**|**Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition**|Yuankun Xie et.al.|[2501.06514](http://arxiv.org/abs/2501.06514)|**[link](https://github.com/xieyuankun/st-codecfake)**|
 |**2025-01-09**|**Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels**|Falih Gozi Febrinanto et.al.|[2501.04942](http://arxiv.org/abs/2501.04942)|null|
