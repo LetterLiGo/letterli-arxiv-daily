@@ -42,7 +42,7 @@
 |**2024-10-22**|**DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models**|Chen Qian et.al.|[2410.16672](http://arxiv.org/abs/2410.16672)|**[link](https://github.com/chnq/dean)**|
 |**2024-10-20**|**Jailbreaking and Mitigation of Vulnerabilities in Large Language Models**|Benji Peng et.al.|[2410.15236](http://arxiv.org/abs/2410.15236)|null|
 |**2024-10-18**|**From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting**|Shigang Liu et.al.|[2410.14321](http://arxiv.org/abs/2410.14321)|null|
-|**2024-10-17**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237](http://arxiv.org/abs/2410.13237)|null|
+|**2025-02-09**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237](http://arxiv.org/abs/2410.13237)|null|
 |**2025-01-13**|**SecAlign: Defending Against Prompt Injection with Preference Optimization**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/secalign)**|
 |**2024-10-06**|**Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning**|Yanrui Du et.al.|[2410.04524](http://arxiv.org/abs/2410.04524)|null|
 |**2024-10-04**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|null|
@@ -96,6 +96,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-02**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|null|
 |**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416](http://arxiv.org/abs/2501.18416)|null|
 |**2025-01-25**|**PromptShield: Deployable Detection for Prompt Injection Attacks**|Dennis Jacob et.al.|[2501.15145](http://arxiv.org/abs/2501.15145)|null|
 |**2025-01-21**|**An Empirically-grounded tool for Automatic Prompt Linting and Repair: A Case Study on Bias, Vulnerability, and Optimization in Developer Prompts**|Dhia Elhaq Rzig et.al.|[2501.12521](http://arxiv.org/abs/2501.12521)|null|
