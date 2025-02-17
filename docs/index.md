@@ -28,7 +28,7 @@ layout: default
 |**2024-12-07**|**PrivAgent: Agentic-based Red-teaming for LLM Privacy Leakage**|Yuzhou Nie et.al.|[2412.05734](http://arxiv.org/abs/2412.05734)|**[link](https://github.com/rucnyz/redagent)**|
 |**2024-12-02**|**Improved Large Language Model Jailbreak Detection via Pretrained Embeddings**|Erick Galinkin et.al.|[2412.01547](http://arxiv.org/abs/2412.01547)|null|
 |**2024-11-21**|**Global Challenge for Safe and Secure LLMs Track 1**|Xiaojun Jia et.al.|[2411.14502](http://arxiv.org/abs/2411.14502)|null|
-|**2024-11-10**|**SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains**|Bijoy Ahmed Saiem et.al.|[2411.06426](http://arxiv.org/abs/2411.06426)|null|
+|**2025-02-14**|**SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt Chains**|Bijoy Ahmed Saiem et.al.|[2411.06426](http://arxiv.org/abs/2411.06426)|null|
 |**2024-11-06**|**Diversity Helps Jailbreak Large Language Models**|Weiliang Zhao et.al.|[2411.04223](http://arxiv.org/abs/2411.04223)|null|
 |**2024-10-28**|**Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures**|Victoria Benjamin et.al.|[2410.23308](http://arxiv.org/abs/2410.23308)|null|
 |**2024-10-22**|**DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models**|Chen Qian et.al.|[2410.16672](http://arxiv.org/abs/2410.16672)|**[link](https://github.com/chnq/dean)**|
@@ -86,8 +86,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-13**|**RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage**|Peter Yong Zhong et.al.|[2502.08966](http://arxiv.org/abs/2502.08966)|null|
-|**2025-02-12**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|null|
+|**2025-02-14**|**RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage**|Peter Yong Zhong et.al.|[2502.08966](http://arxiv.org/abs/2502.08966)|null|
+|**2025-02-12**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|**[link](https://github.com/xingjunm/awesome-large-model-safety)**|
 |**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416](http://arxiv.org/abs/2501.18416)|null|
 |**2025-01-25**|**PromptShield: Deployable Detection for Prompt Injection Attacks**|Dennis Jacob et.al.|[2501.15145](http://arxiv.org/abs/2501.15145)|null|
 |**2025-01-21**|**An Empirically-grounded tool for Automatic Prompt Linting and Repair: A Case Study on Bias, Vulnerability, and Optimization in Developer Prompts**|Dhia Elhaq Rzig et.al.|[2501.12521](http://arxiv.org/abs/2501.12521)|null|
@@ -159,6 +159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**A Preliminary Exploration with GPT-4o Voice Mode**|Yu-Xiang Lin et.al.|[2502.09940](http://arxiv.org/abs/2502.09940)|null|
 |**2025-02-07**|**Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection**|Yassine El Kheir et.al.|[2502.03559](http://arxiv.org/abs/2502.03559)|**[link](https://github.com/yaselley/ssl_layerwise_deepfake)**|
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
 |**2025-01-27**|**What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain**|Petr Grinberg et.al.|[2501.13887](http://arxiv.org/abs/2501.13887)|null|
